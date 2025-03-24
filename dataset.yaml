@@ -1,0 +1,4 @@
+train: C:\Users\patil\Desktop\py\Poacher-protection\dataset\images\train
+val: C:\Users\patil\Desktop\py\Poacher-protection\dataset\images\val
+nc: 1
+names: ["poacher"]
